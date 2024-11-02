@@ -30,9 +30,9 @@ Descargar el proyecto
 Descargar las dependencias necesarias para correr el proyecto
 Ejecutar el proyecto
 Levantar la base de datos H2, navegando a: http://localhost:9000/h2-console/
-Puedes probar la API localmente o utilizando render:
+Puedes probar la API localmente o utilizando render: 
 
-En render, con la URL: https://examen-mercadolibre.onrender.com
+En render, con la URL: https://parcial-mutantes-pe0r.onrender.com
 Prueba la API con Postman o cualquier otro software de tu preferencia:
 POST (guardar persona local) http://localhost:9000/persona/mutant
 POST (guardar persona render) https://examen-mercadolibre.onrender.com/persona/mutant
