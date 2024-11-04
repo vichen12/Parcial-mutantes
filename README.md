@@ -15,7 +15,7 @@ En el archivo `code_explanation.md` encontrarás una breve explicación del enun
 Este proyecto incluye dos endpoints principales:
 
 1. **GET: Estadísticas de mutantes**
-   - URL local: `http://localhost:9000/person/stats`
+   - URL local: `http://localhost:9000/persona/stats`
    - URL en Render: `https://parcial-mutantes-pe0r.onrender.com/persona/stats`
 
 2. **POST: Guardar persona como mutante**
